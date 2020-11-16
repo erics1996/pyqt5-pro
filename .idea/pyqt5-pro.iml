@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/布局中的间隔和分割线" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/控件最大尺寸和最小尺寸" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/尺寸策略" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/设置控件之间的伙伴关系" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (pyqt5-pro)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
