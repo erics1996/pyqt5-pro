@@ -19,7 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/信号与槽的设置" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/设置窗口和应用程序图标" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/退出应用程序" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/窗口添加菜单和工具栏" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/添加菜单和工具栏" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/屏幕坐标系" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/创建主窗口" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/QLabel控件的基本用法" isTestSource="false" />
