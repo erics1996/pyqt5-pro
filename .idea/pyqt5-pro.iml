@@ -4,28 +4,28 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/QtDesigner/垂直布局" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/QtDesigner/水平布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/同时使用水平布局和垂直布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/栅格布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/表单布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/绝对布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/水平布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/垂直布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/容器布局" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/布局中的间隔和分割线" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/控件最大尺寸和最小尺寸" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/尺寸策略" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/设置控件之间的伙伴关系" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/修改控件的Tab顺序" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/信号与槽的设置" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/设置窗口和应用程序图标" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/退出应用程序" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/添加菜单和工具栏" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/屏幕坐标系" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/创建主窗口" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/QLabel控件的基本用法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/主窗口居中显示" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/QLabel与伙伴控件" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner/控件添加提示消息" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/同时使用水平布局和垂直布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/栅格布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/表单布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/绝对布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/水平布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/垂直布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/容器布局" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/布局中的间隔和分割线" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/控件最大尺寸和最小尺寸" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/尺寸策略" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/设置控件之间的伙伴关系" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/修改控件的Tab顺序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/信号与槽的设置" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/设置窗口和应用程序图标" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/退出应用程序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/添加菜单和工具栏" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/屏幕坐标系" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/1.创建主窗口" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/QLabel控件的基本用法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/2.主窗口居中显示" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/QLabel与伙伴控件" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/控件添加提示消息" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (pyqt5-pro)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
