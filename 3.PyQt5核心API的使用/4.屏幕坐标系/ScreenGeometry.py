@@ -6,22 +6,52 @@
 @file: ScreenGeometry.py
 @time: 2020/11/17 上午11:15
 """
-"""
-使用Qwigit创建窗口
-在窗口放按钮
-按钮放到响应的位置
-设置按钮的尺寸
-移动窗口
-设置窗口标题栏文字
-显示窗口
-进入事件循环
-单击button输出屏幕相关的值
-打印窗口的坐标和宽度和高度
-"""
-"""
-两种方式，通过坐标系
-第一种：y含有标题栏
-第二种：不包含边框（实际上是窗口的坐标系，不包括标题栏）放控件放到工作区，不包含标题栏。标题栏的高度是22px相同的分辨率下
-第三种：第三种和第一种一样，第二种是工作区。第三种高度含有标题栏（标题栏加工作区）
-"""
-# 窗口相对于坐标系的位置和尺寸，侧面可以得到标题栏的高度。window中同理去分析就可以
+import sys
+from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
+
+
+def on_click_btn():
+    """
+    单击button打印窗口的坐标和宽度和高度
+    :return:
+    """
+    print('onclick')
+    print('------1------')
+    print('widget.x() = %d' % widget.x())  # 窗口横坐标
+    print('widget.y() = %d' % widget.y())  # 窗口纵坐标
+    print('widget.width() = %d' % widget.width())  # 工作区宽度
+    print('widget.height() = %d' % widget.height())  # 工作去高度
+    print('------2------')
+    print('widget.geometry().x() = %d' % widget.geometry().x())  # 工作区横坐标
+    print('widget.geometry().y() = %d' % widget.geometry().y())  # 工作区纵坐标
+    print('widget.geometry().width() = %d' % widget.geometry().width())  # 工作区宽度
+    print('widget.geometry().height() = %d' % widget.geometry().height())  # 工作区高度
+    print('------3------')
+    print('widget.geometry().x() = %d' % widget.frameGeometry().x())  # 窗口横坐标
+    print('widget.geometry().y() = %d' % widget.frameGeometry().y())  # 窗口纵坐标
+    print('widget.geometry().width() = %d' % widget.frameGeometry().width())  # 窗口宽度
+    print('widget.geometry().height() = %d' % widget.frameGeometry().height())  # 窗口高度（包括标题栏）
+
+
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    # 使用Qwigit创建窗口
+    widget = QWidget()
+    # 在窗口放按钮
+    btn = QPushButton(widget)
+    # 设置按钮的文本
+    btn.setText('按钮')
+    # 设置按钮相对于窗口（工作区）的位置
+    btn.move(10, 10)
+    # 绑定槽
+    btn.clicked.connect(on_click_btn)
+    # 设置工作区的尺寸
+    widget.resize(300, 300)
+    # 设置窗口的坐标（对于屏幕的位置）
+    widget.move(200, 200)
+    # 设置窗口标题栏文字
+    widget.setWindowTitle('屏幕坐标系')
+    # 显示窗口
+    widget.show()
+    # 进入事件循环
+    sys.exit(app.exec_())
