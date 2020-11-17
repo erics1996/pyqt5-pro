@@ -17,15 +17,15 @@
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/设置控件之间的伙伴关系" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/修改控件的Tab顺序" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/信号与槽的设置" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/设置窗口和应用程序图标" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/退出应用程序" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/5.设置窗口和应用程序图标" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/3.退出应用程序" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2.QtDesigner的使用/添加菜单和工具栏" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/屏幕坐标系" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/1.创建主窗口" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/QLabel控件的基本用法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/2.主窗口居中显示" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/QLabel与伙伴控件" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/PyQt5核心API的使用/控件添加提示消息" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/4.屏幕坐标系" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/1.创建主窗口" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/QLabel控件的基本用法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/2.主窗口居中显示" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/QLabel与伙伴控件" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3.PyQt5核心API的使用/6.控件添加提示消息" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (pyqt5-pro)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
